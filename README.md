@@ -5,5 +5,5 @@
 - 😄 Pronomes: ela/ele 
 - ⚡ Curiosidade: autista com hiperfoco em hitoria, so ese ano eu ja li mais de 150 livros, sou fã das sagas de livro percy jackon e os olimpianos
 
-   1https://media1.tenor.com/m/pOCxn6YG74wAAAAC/present-mic-rock-on.gif
+ 
 
