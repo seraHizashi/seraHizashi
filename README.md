@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @seraHizashi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💛 Olá, sou @seraHizashi
+- ☀️ Estou interessado em mitologia grega, livros, pintura 
+- 🌟 Atualmente estou aprendendo a tocar violão, italiano, grego e programar nas aulas de Pensamento computacional.
+- 🔥 Como entrar em contato comigo pelo email julia.staszczak@escola.pr.gov.br
+- 😄 Pronomes: ela/ele 
+- ⚡ Curiosidade: autista com hiperfoco em hitoria, so ese ano eu ja li mais de 150 livros, sou fã das sagas de livro percy jackon e os olimpianos
 
-<!---
-seraHizashi/seraHizashi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+   1https://media1.tenor.com/m/pOCxn6YG74wAAAAC/present-mic-rock-on.gif
+
